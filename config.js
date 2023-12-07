@@ -10,7 +10,7 @@ global.owner = [
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
   [''] 
-] //Number of owners
+] //Number of owners923000677729
 
 //global.pairingNumber = "" //put your bot number here
 
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'DARK MAJID'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'DARK SALJOOK' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
